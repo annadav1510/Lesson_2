@@ -7,32 +7,30 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-
-
     <TableRow>
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
             android:background="#ffaa"
             android:layout_margin="10dp"/>
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
             android:background="#ffaa"
             android:layout_margin="10dp"/>
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
             android:background="#ffaa"
             android:layout_margin="10dp" />
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
@@ -43,61 +41,33 @@
 
     <TableRow>
 
-        <View
+        <Button
+            android:id="@+id/button_1"
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:text="1"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="#ffaa" />
+            android:background="#5522" />
 
-        <View
+        <Button
+            android:id="@+id/button_2"
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:text="2"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="#ffaa" />
+            android:background="#5522" />
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:text="3"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="#ffaa"/>
+            android:background="#5522"/>
 
-        <View
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="50dp"
-            android:layout_margin="10dp"
-            android:background="#ffaa" />
-
-
-    </TableRow>
-
-    <TableRow>
-
-        <View
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="50dp"
-            android:layout_margin="10dp"
-            android:background="#ffaa" />
-
-        <View
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="50dp"
-            android:layout_margin="10dp"
-            android:background="#ffaa" />
-
-        <View
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:layout_height="50dp"
-            android:layout_margin="10dp"
-            android:background="#ffaa"/>
-
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
@@ -109,28 +79,31 @@
 
     <TableRow>
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:text="4"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="#ffaa" />
+            android:background="#5522" />
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:text="5"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="#ffaa" />
+            android:background="#5522" />
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
+            android:text="6"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="#ffaa"/>
+            android:background="#5522"/>
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
@@ -142,28 +115,65 @@
 
     <TableRow>
 
-        <View
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="7"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#5522" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="8"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#5522" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="9"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#5522"/>
+
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
             android:layout_margin="10dp"
             android:background="#ffaa" />
 
-        <View
+
+    </TableRow>
+
+    <TableRow>
+
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
             android:layout_margin="10dp"
             android:background="#ffaa" />
 
-        <View
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="0"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#5522" />
+
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
             android:layout_margin="10dp"
             android:background="#ffaa"/>
 
-        <View
+        <Button
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="50dp"
