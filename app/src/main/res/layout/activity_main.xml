@@ -7,50 +7,36 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <TableRow>
 
-        <View
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:background="#ffaa"/>
-
-        <View
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:background="#ffaa"/>
-
-        <View
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:background="#ffaa"/>
-
-        <View
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:background="#ffaa"/>
-
-    </TableRow>
 
     <TableRow>
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
-            android:background="#ffaa" />
+            android:background="#ffaa"
+            android:layout_margin="10dp"/>
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
-            android:background="#ffaa"/>
+            android:background="#ffaa"
+            android:layout_margin="10dp"/>
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
-            android:background="#ffaa" />
+            android:background="#ffaa"
+            android:layout_margin="10dp" />
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
+            android:layout_margin="10dp"
             android:background="#ffaa" />
 
     </TableRow>
@@ -58,28 +44,134 @@
     <TableRow>
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
+            android:layout_margin="10dp"
             android:background="#ffaa" />
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
+            android:layout_margin="10dp"
             android:background="#ffaa" />
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
+            android:layout_margin="10dp"
             android:background="#ffaa"/>
 
         <View
-            android:layout_width="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="50dp"
+            android:layout_margin="10dp"
             android:background="#ffaa" />
 
 
     </TableRow>
 
+    <TableRow>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+
+    </TableRow>
+
+    <TableRow>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+
+    </TableRow>
+
+    <TableRow>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#ffaa" />
+
+
+    </TableRow>
 
 
 
